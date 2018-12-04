@@ -5,6 +5,8 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.lang.NullPointerException;
+import java.io.InputStream;
+import java.io.FileNotFoundException;
 
 import static java.lang.Integer.min;
 
@@ -96,8 +98,6 @@ public class Tutorijal implements Serializable {
 
 
     }
-  public static UN ucitajXml(ArrayList<Grad> gradovi){
-      UN un = new UN();
-      return un;
-    }
+
+
 }
