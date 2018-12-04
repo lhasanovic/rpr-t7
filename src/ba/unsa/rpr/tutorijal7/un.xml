@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
+
+<java version="1.8.0_191" class="java.beans.XMLDecoder">
+    <object class="ba.unsa.rpr.tutorijal7.UN" id="UN0">
+        <void property="drzave">
+            <void method="add">
+                <object class="ba.unsa.rpr.tutorijal7.Drzava" id="Drzava0">
+                    <void property="brojStanovnika">
+                        <int>4000000</int>
+                    </void>
+                    <void id="Grad0" property="glavniGrad">
+                        <void property="naziv">
+                            <string>Sarajevo</string>
+                        </void>
+                        <void property="temperature">
+                            <void index="0">
+                                <double>5.4</double>
+                            </void>
+                            <void index="1">
+                                <double>15.8</double>
+                            </void>
+                            <void index="2">
+                                <double>2.3</double>
+                            </void>
+                            <void index="3">
+                                <double>0.44</double>
+                            </void>
+                            <void index="4">
+                                <double>-1.1</double>
+                            </void>
+                        </void>
+                    </void>
+                    <void property="jedinicaZaPovrsinu">
+                        <string>km2</string>
+                    </void>
+                    <void property="naziv">
+                        <string>Bosna i Hercegovina</string>
+                    </void>
+                    <void property="povrsina">
+                        <double>423423.0</double>
+                    </void>
+                </object>
+            </void>
+        </void>
+    </object>
+</java>
