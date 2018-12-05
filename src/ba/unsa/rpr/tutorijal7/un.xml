@@ -1,7 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <?xml version="1.0"?>
-
-<java version="1.8.0_191" class="java.beans.XMLDecoder">
+<java version="10.0.2" class="java.beans.XMLDecoder">
     <object class="ba.unsa.rpr.tutorijal7.UN" id="UN0">
         <void property="drzave">
             <void method="add">
