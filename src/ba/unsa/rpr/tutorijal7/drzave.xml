@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<drzave>
+<drzava stanovnika="3500000">
+    <naziv>Bosna i Hercegovina</naziv>
+    <glavnigrad stanovnika="400000">
+        <naziv>Sarajevo</naziv>
+    </glavnigrad>
+    <povrsina jedinica="km2">51129</povrsina>
+    <moneta naziv="KM" />
+</drzava>
+    <drzava stanovnika="300500000">
+        <naziv>Njemacka</naziv>
+        <glavnigrad stanovnika="400000">
+            <naziv>Berlin</naziv>
+        </glavnigrad>
+        <povrsina jedinica="km2">5110429</povrsina>
+        <moneta naziv="DM" />
+    </drzava>
+    <drzava stanovnika="983500000">
+        <naziv>Rusija</naziv>
+        <glavnigrad stanovnika="10000000">
+            <naziv>Moskva</naziv>
+        </glavnigrad>
+        <povrsina jedinica="km2">519129</povrsina>
+        <moneta naziv="RUB" />
+    </drzava>
+        </drzave>
