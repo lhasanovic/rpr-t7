@@ -1,6 +1,7 @@
 package ba.unsa.rpr.tutorijal7;
 
 import java.io.Serializable;
+import java.util.ArrayList;
 
 public class Grad implements Serializable {
     private String naziv;
@@ -14,7 +15,7 @@ public class Grad implements Serializable {
             this.temperature[i] = 0;
     }
 
-    public Grad(String naziv, int brojStanovnika, double[] temperature) {
+    public Grad(String naziv, int brojStanovnika, ArrayList<Double> temperaure) {
         this.naziv = naziv;
         this.brojStanovnika = brojStanovnika;
         this.temperature = temperature;
